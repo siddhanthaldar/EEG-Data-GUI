@@ -6,5 +6,5 @@ The code **gui.py** uses randomized data in the range of 4100-4300 (range of sig
 
 **INSTRUCTIONS :**
 
-Anyone planning to use this must alter the class *Data* to take as input the data from the headset set. Here, we have set the window length(number of time steps over which the data is accumulated before passing it through the classifier) to be 150 in order to build the input matrix for the CNN-based classifier.
+Anyone planning to use this must alter the class *Data* to take as input the data from the headset set. Here, we have set the window length(number of time steps over which the data is accumulated before passing it through the classifier) to be 150 in order to build the input matrix for the [CNN-based classifier](https://github.com/siddhanthaldar/EEG_based_activity_recognition).
 
